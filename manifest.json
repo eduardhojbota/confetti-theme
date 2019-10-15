@@ -10,7 +10,7 @@
 
     "name": "Particles Theme",
     "version": "2019.10.15",
-    "description": "Particled theme for Firefox",
+    "description": "Particles theme for Firefox",
     "homepage_url": "https://github.com/eduardhojbota/particles-theme",
 
     "permissions": ["theme", "alarms"],
