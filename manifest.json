@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+
+    "applications": {
+        "gecko": {
+            "id": "particles-dynamic@eduardhojbota",
+            "strict_min_version": "59.0"
+        }
+    },
+
+    "name": "Particles Theme",
+    "version": "2019.10.15",
+    "description": "Particled theme for Firefox",
+    "homepage_url": "https://github.com/eduardhojbota/particles-theme",
+
+    "permissions": ["theme", "alarms"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "icons": {
+        "48": "icon.svg",
+        "96": "icon.svg"
+    }
+}
