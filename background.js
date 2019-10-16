@@ -2,7 +2,7 @@ var currentTheme = "";
 
 var colors = {
     dark: {
-        main: "#121111",
+        main: "#2F343F",
         primary: ["#0A9FED", "#2DE51F", "#E9EA0F", "#E71860", "#22E8A3", "#8B58EA", "#E6690E"],
         text: "#D3DAE3",
         textShadow: "#AFB8C6",
@@ -12,7 +12,7 @@ var colors = {
         highlight: "#000"
     },
     light: {
-        main: "#EEE",
+        main: "#E7E8EB",
         primary: ["#1996F1", "#A0ECA4", "#9F951D", "#E61916", "#18E79F", "#A062EE", "#E98A37"],
         text: "#5C616C",
         textShadow: "#525D76",
