@@ -3,15 +3,15 @@
 
     "applications": {
         "gecko": {
-            "id": "particles-dynamic@eduardhojbota",
+            "id": "confetti@eduardhojbota",
             "strict_min_version": "59.0"
         }
     },
 
-    "name": "Particles Theme",
-    "version": "2019.10.15",
-    "description": "Particles theme for Firefox",
-    "homepage_url": "https://github.com/eduardhojbota/particles-theme",
+    "name": "Confetti Theme",
+    "version": "2019.10.17",
+    "description": "Confetti theme for Firefox",
+    "homepage_url": "https://github.com/eduardhojbota/confetti-theme",
 
     "permissions": ["theme", "alarms"],
     "background": {

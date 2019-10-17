@@ -1,4 +1,6 @@
-# Particles theme for Firefox
+# Conffeti theme for Firefox
+
+Install from the Firefox [addons page](https://addons.mozilla.org/en-US/firefox/addon/confetti-theme/).
 
 Based on:
 - [rekt_son](https://addons.mozilla.org/en-US/firefox/user/14443552/) [Animated Particles Theme](https://addons.mozilla.org/en-US/firefox/addon/animated-particles-theme/) 
