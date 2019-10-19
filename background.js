@@ -1,12 +1,13 @@
 var currentTheme = "";
 
 var primaryColors = [
-    "#D53662",
-    "#E9EA4F",
-    "#429EE7",
-    "#D8702E",
-    "#825EE2",
-    "#85E549",
+    "#E92359",
+    "#CF28A5",
+    "#676DEB",
+    "#14C2DA",
+    "#46E934",
+    "#D0E910",
+    "#E8880A",
 ];
 
 var colors = {
