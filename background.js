@@ -1,17 +1,18 @@
 var currentTheme = "";
 
+var primaryColors = [
+    "#D53662",
+    "#E9EA4F",
+    "#429EE7",
+    "#D8702E",
+    "#825EE2",
+    "#85E549",
+];
+
 var colors = {
     dark: {
         main: "#2F343F",
-        primary: [
-            "#0A9FED",
-            "#2DE51F",
-            "#E9EA0F",
-            "#E71860",
-            "#22E8A3",
-            "#8B58EA",
-            "#E6690E"
-        ],
+        primary: primaryColors,
         text: "#D3DAE3",
         textShadow: "#AFB8C6",
         separator: "#272A34",
@@ -21,21 +22,13 @@ var colors = {
     },
     light: {
         main: "#E7E8EB",
-        primary: [
-            "#1996F1",
-            "#A0ECA4",
-            "#9F951D",
-            "#E61916",
-            "#18E79F",
-            "#A062EE",
-            "#E98A37"
-        ],
+        primary: primaryColors,
         text: "#5C616C",
         textShadow: "#525D76",
         separator: "#CFD6E6",
         border: "#DCDFE3",
         sidebar: "#F5F6F7",
-        highlight: "#000"
+        highlight: "#FFF"
     }
 };
 
@@ -66,7 +59,7 @@ function generateTheme(theme) {
 
     return {
         images: {
-            additional_backgrounds: ["particles-" + theme + ".gif"]
+            additional_backgrounds: ["confetti.png"]
         },
         properties: {
             additional_backgrounds_alignment: ["right center"]

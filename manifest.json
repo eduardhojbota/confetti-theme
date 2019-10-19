@@ -3,14 +3,14 @@
 
     "applications": {
         "gecko": {
-            "id": "confetti@eduardhojbota",
-            "strict_min_version": "59.0"
+            "id": "confetti@eduardh.com",
+            "strict_min_version": "55.0"
         }
     },
 
     "name": "Confetti Theme",
-    "version": "2019.10.17",
-    "description": "Confetti theme for Firefox",
+    "version": "2019.10.19",
+    "description": "Confetti is a Firefox theme which changes colors and adapts to the user's operating system color scheme.",
     "homepage_url": "https://github.com/eduardhojbota/confetti-theme",
 
     "permissions": ["theme", "alarms"],
