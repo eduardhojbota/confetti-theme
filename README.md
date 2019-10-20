@@ -1,6 +1,6 @@
-# Conffeti theme for Firefox
+# Confetti - Firefox Theme
 
-## Setup
+Confetti is a Firefox theme which changes colors and adapts to the user's operating system color scheme. 
 
 Install from the Firefox [addons page](https://addons.mozilla.org/en-US/firefox/addon/confetti-theme/).
 
